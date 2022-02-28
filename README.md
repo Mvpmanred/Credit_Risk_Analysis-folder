@@ -6,6 +6,8 @@ The purpose of this analysis is using my knowledge of the supervised machine lea
 ##Results
 
 Below are the results from all machine learning models to predict for high risk loans. 
+
+
 1.Navie Random Overshampling
 ![Capture1 Naive Random Overshampling](https://user-images.githubusercontent.com/92561493/155933713-5dcd5a5e-f12b-486c-b9f7-0a702289e9f5.PNG)
 - Accuracy scrore: 67.14%
