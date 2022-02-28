@@ -30,3 +30,17 @@ Below are the results from all machine learning models to predict for high risk 
 - Accuracy scrore: 64.8%
 - Precision: 99%
 - Sensitivity: 68%
+
+
+
+
+4. SMOTEENN algorithm
+![SMOTEENN algorithm](https://user-images.githubusercontent.com/92561493/155937095-051193e7-24d3-4d92-8b1f-9ab8ec5a07d8.PNG)
+- Accuracy scrore: 66.65%
+- Precision: 99%
+- Sensitivity: 60%
+
+
+
+
+
