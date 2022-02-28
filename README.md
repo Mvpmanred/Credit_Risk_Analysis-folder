@@ -18,4 +18,6 @@ Below are the results from all machine learning models to predict for high risk 
 
 2. SMOTE Oversampling
 ![SMOTE Oversampling](https://user-images.githubusercontent.com/92561493/155934192-0f40004d-163a-4ed3-9d83-8c7817e11680.PNG)
-- 
+- Accuracy scrore: 65.86%
+- Precision: 99%
+- Sensitivity: 68%
