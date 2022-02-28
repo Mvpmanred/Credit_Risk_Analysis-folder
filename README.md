@@ -42,5 +42,18 @@ Below are the results from all machine learning models to predict for high risk 
 
 
 
+5. Balanced Random Forest Classifier
+![Balanced Random Forest Classifier](https://user-images.githubusercontent.com/92561493/155937415-99f08828-1731-4faa-a94a-998a4f93bcd3.PNG)
+- Accuracy scrore: 77.70%
+- Precision: 99%
+- Sensitivity: 88%
+
+
+
+6.Easy Ensemble AdaBoost Classifier
+![easy ensemble AdaBoost Classifier](https://user-images.githubusercontent.com/92561493/155937528-bcf0401b-8914-4c81-b6aa-7b690beb4226.PNG)
+- Accuracy scrore: 93.21%
+- Precision: 99%
+- Sensitivity: 94%
 
 
